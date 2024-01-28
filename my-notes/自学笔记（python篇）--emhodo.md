@@ -93,4 +93,4 @@ pairs.sort(key=lambda p: p[1])
 pairs`
 - `paris.sort(*,key=str.lower,reverse=False)`:`sort`含有两个**关键字参数**,`key`从列表中提取元素 比较键值
 
-## 
+## Part.3.B.1 类
